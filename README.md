@@ -1,4 +1,5 @@
-Ancfinder
+Copy of Ancfinder
+Outdated, new link https://dcgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=12bb36e8b77a4a8780125e77e990b146
 ==========
 
 A website about DC's Advisory Neighborhood Commission system.
